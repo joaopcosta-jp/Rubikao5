@@ -1,1 +1,1 @@
--Projeto para calcular media de 5.
+Projeto para calcular media de 5 no cubo mágico.
